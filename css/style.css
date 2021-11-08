@@ -101,9 +101,13 @@ font-size: 24px;
 line-height: 29px;
 margin-left: auto;
 }
-.login{
+.logo{
 margin-left: 22px;
 margin-right: 134px;
+}
+.logo__img{
+  width: 60px;
+  height: 60px;
 }
 .header__content{
 	max-width: 600px;
@@ -610,7 +614,7 @@ top: 10px;
 }
 }
 @media(max-width: 1024px){
-.login{
+.logo{
 		margin-right: 0;
 }
 .to-book__inner{
@@ -655,7 +659,7 @@ top: 10px;
 	display: block;
 }
 .phone,
-.login{
+.logo{
 	position: relative;
 	z-index: 20;
 }
@@ -872,7 +876,7 @@ top: 10px;
 	text-align: center;
 }
 .menu,
-.login{
+.logo{
 	order: -1;
 }
 .menu__list{
