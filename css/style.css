@@ -79,10 +79,11 @@ body{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	padding: 75px 0 30px;
+	padding: 65px 0 30px;
 }
 .menu__list{
 	display: flex;
+  
 }
 .menu__item{
 	margin-right: 30px;
@@ -99,11 +100,11 @@ color: #CB0E0E;
 .phone{
 font-size: 24px;
 line-height: 29px;
-margin-left: auto;
+margin-right: auto;
+margin-left: 30px;
 }
 .logo{
-margin-left: 22px;
-margin-right: 134px;
+
 }
 .logo__img{
   width: 60px;
